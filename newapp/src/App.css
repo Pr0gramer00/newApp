@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+padding: 0;
+}
+.card {
+    background-color: cadetblue;
+    color: #fff;
+    font-style: 25px;
+    text-align: center;
+    width: 400px;
+    margin: 10px;
+    box-shadow: 0 0 8px black;
+}
+.card-first {
+    background-color: cadetblue;
+    color: #fff;
+    font-style: 25px;
+    text-align: center;
+    width: 400px;
+    margin: 10px;
+    box-shadow: 0 0 8px black;
+}
+.card-two {
+    background-color: cadetblue;
+    color: #fff;
+    font-style: 25px;
+    text-align: center;
+    width: 400px;
+    margin: 10px;
+    box-shadow: 0 0 8px black;
+}
+.delete-btn {
+    background-color: tomato;
+    color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
